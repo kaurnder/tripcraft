@@ -1942,9 +1942,9 @@ function blog_custom_column_content($column, $post_id){
 }
 add_action('manage_blog_posts_custom_column', 'blog_custom_column_content', 10, 2);
 
-// // 3. Make the column sortable
-// function make_blog_status_column_sortable($columns) {
-//     $columns['blog_Status'] = 'blog_status';
-//     return $columns;
-// }
-// add_filter('manage_edit-blog_sortable_columns', 'make_blog_status_column_sortable');
+// 3. Make the column sortable
+function make_blog_status_column_sortable($columns) {
+    $columns['blog_Status'] = 'blog_status';
+    return $columns;
+}
+add_filter('manage_edit-blog_sortable_columns', 'make_blog_status_column_sortable');
