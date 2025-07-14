@@ -1,6 +1,6 @@
 wp-content/uploads/
 wp-content/uploads/*.*
-
+wp-config.php
 local-backup.sql
 wp-admin/
 wp-includes/
