@@ -1,9 +1,3 @@
-wp-content/uploads/
-wp-content/uploads/*.*
+
 wp-config.php
-local-backup.sql
-wp-admin/
-wp-includes/
-.idea/
-wp-content/cache
-wp-content/wflogs/*.*
+
