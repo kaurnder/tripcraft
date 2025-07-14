@@ -23,7 +23,7 @@ define('WP_DEBUG_DISPLAY', true);
  define('FS_METHOD', 'direct');
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'myproject' );
+define( 'DB_NAME', 'tripcraft' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
