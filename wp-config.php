@@ -26,7 +26,7 @@ define('WP_DEBUG_DISPLAY', false);
 define( 'DB_NAME', 'tripcraft' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'Dattar' );
 
 /** Database password */
 define( 'DB_PASSWORD', '123456' );
