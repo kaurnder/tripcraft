@@ -1,10 +1,9 @@
+wp-content/uploads/
+wp-content/uploads/*.*
 wp-config.php
 local-backup.sql
-
 wp-admin/
 wp-includes/
-
-wp-content/uploads/
-wp-content/cache/
-wp-content/wflogs/
 .idea/
+wp-content/cache
+wp-content/wflogs/*.*
