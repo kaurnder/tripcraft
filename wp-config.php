@@ -17,8 +17,8 @@
  *
  * @package WordPress
  */
-// define('WP_DEBUG', true);
-define('WP_DEBUG_DISPLAY', false);
+ define('WP_DEBUG', false);
+//define('WP_DEBUG_DISPLAY', false);
 
  define('FS_METHOD', 'direct');
 // ** Database settings - You can get this info from your web host ** //
